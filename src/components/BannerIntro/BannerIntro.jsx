@@ -1,6 +1,6 @@
 const BannerIntro = () => {
   return (
-    <div>
+    <div className=" md:mb-20 lg:mb-0 mb-0">
       <h2 className=" text-5xl font-bold text-[#3A4256]">
         Your New Smile Starts <br className=" hidden md:block"/> Here
       </h2>
