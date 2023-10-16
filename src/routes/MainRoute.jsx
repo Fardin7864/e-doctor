@@ -16,7 +16,8 @@ const MainRoute = createBrowserRouter([
             },
             {
                 path: '/appointment',
-                element: <Appointment></Appointment>
+                element: <Appointment></Appointment>,
+                loader: () => fetch('/subcategory.json')
             }
         ]
     }

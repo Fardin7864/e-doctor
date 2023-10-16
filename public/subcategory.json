@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "category": "Dental Care",
+      "subcategory": "Teeth Cleaning",
+      "time": "8:30 AM - 9:30 AM"
+    },
+    {
+      "id": 2,
+      "category": "Dental Care",
+      "subcategory": "Tooth Extraction",
+      "time": "10:00 AM - 11:00 AM"
+    },
+    {
+      "id": 3,
+      "category": "Dental Care",
+      "subcategory": "Orthodontics",
+      "time": "2:00 PM - 3:00 PM"
+    },
+    {
+      "id": 4,
+      "category": "Dental Care",
+      "subcategory": "Cosmetic Dentistry",
+      "time": "3:30 PM - 4:30 PM"
+    },
+    {
+      "id": 5,
+      "category": "Dental Care",
+      "subcategory": "Oral Surgery",
+      "time": "5:00 PM - 6:00 PM"
+    },
+    {
+      "id": 6,
+      "category": "Orthopedics",
+      "subcategory": "Joint Pain Consultation",
+      "time": "9:00 AM - 10:00 AM"
+    },
+    {
+      "id": 7,
+      "category": "Orthopedics",
+      "subcategory": "Physical Therapy",
+      "time": "11:30 AM - 12:30 PM"
+    },
+    {
+      "id": 8,
+      "category": "Orthopedics",
+      "subcategory": "Orthopedic Surgery",
+      "time": "3:30 PM - 4:30 PM"
+    },
+    {
+      "id": 9,
+      "category": "Orthopedics",
+      "subcategory": "Fracture Treatment",
+      "time": "4:45 PM - 5:45 PM"
+    },
+    {
+      "id": 10,
+      "category": "Orthopedics",
+      "subcategory": "Arthritis Management",
+      "time": "6:00 PM - 7:00 PM"
+    },
+    {
+      "id": 11,
+      "category": "Orthopedics",
+      "subcategory": "Sports Injury",
+      "time": "7:15 PM - 8:15 PM"
+    },
+    {
+      "id": 12,
+      "category": "Pediatrics",
+      "subcategory": "Child Vaccination",
+      "time": "8:30 AM - 9:30 AM"
+    },
+    {
+      "id": 13,
+      "category": "Pediatrics",
+      "subcategory": "Pediatric Consultation",
+      "time": "10:30 AM - 11:30 AM"
+    },
+    {
+      "id": 14,
+      "category": "Pediatrics",
+      "subcategory": "Child Development Assessment",
+      "time": "1:30 PM - 2:30 PM"
+    },
+    {
+      "id": 15,
+      "category": "Pediatrics",
+      "subcategory": "Allergy Testing",
+      "time": "3:00 PM - 4:00 PM"
+    },
+    {
+      "id": 16,
+      "category": "Dermatology",
+      "subcategory": "Skin Examination",
+      "time": "8:30 AM - 9:30 AM"
+    },
+    {
+      "id": 17,
+      "category": "Dermatology",
+      "subcategory": "Acne Treatment",
+      "time": "11:00 AM - 12:00 PM"
+    },
+    {
+      "id": 18,
+      "category": "Dermatology",
+      "subcategory": "Cosmetic Procedures",
+      "time": "2:00 PM - 3:00 PM"
+    },
+    {
+      "id": 19,
+      "category": "Dermatology",
+      "subcategory": "Mole Removal",
+      "time": "4:00 PM - 5:00 PM"
+    },
+    {
+      "id": 20,
+      "category": "Dermatology",
+      "subcategory": "Dermatological Surgery",
+      "time": "5:30 PM - 6:30 PM"
+    },
+    {
+      "id": 21,
+      "category": "General Checkup",
+      "subcategory": "Annual Physical",
+      "time": "8:00 AM - 9:00 AM"
+    },
+    {
+      "id": 22,
+      "category": "General Checkup",
+      "subcategory": "Checkup for Seniors",
+      "time": "10:30 AM - 11:30 AM"
+    },
+    {
+      "id": 23,
+      "category": "General Checkup",
+      "subcategory": "Wellness Assessment",
+      "time": "1:00 PM - 2:00 PM"
+    },
+    {
+      "id": 24,
+      "category": "General Checkup",
+      "subcategory": "Routine Checkup",
+      "time": "3:30 PM - 4:30 PM"
+    },
+    {
+      "id": 25,
+      "category": "Ophthalmology",
+      "subcategory": "Eye Checkup",
+      "time": "9:30 AM - 10:30 AM"
+    },
+    {
+      "id": 26,
+      "category": "Ophthalmology",
+      "subcategory": "Cataract Surgery",
+      "time": "1:00 PM - 2:00 PM"
+    },
+    {
+      "id": 27,
+      "category": "Ophthalmology",
+      "subcategory": "Glaucoma Screening",
+      "time": "3:00 PM - 4:00 PM"
+    },
+    {
+      "id": 28,
+      "category": "Ophthalmology",
+      "subcategory": "Retina Examination",
+      "time": "4:30 PM - 5:30 PM"
+    },
+    {
+      "id": 29,
+      "category": "Ophthalmology",
+      "subcategory": "Contact Lens Fitting",
+      "time": "6:00 PM - 7:00 PM"
+    },
+    {
+      "id": 30,
+      "category": "Ophthalmology",
+      "subcategory": "LASIK Consultation",
+      "time": "7:30 PM - 8:30 PM"
+    }
+  ]
+  

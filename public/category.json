@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "category": "General Checkup"
+    },
+    {
+      "id": 2,
+      "category": "Dental Care"
+    },
+    {
+      "id": 3,
+      "category": "Pediatrics"
+    },
+    {
+      "id": 4,
+      "category": "Orthopedics"
+    },
+    {
+      "id": 5,
+      "category": "Dermatology"
+    },
+    {
+      "id": 6,
+      "category": "Ophthalmology"
+    }
+  ]
+  
