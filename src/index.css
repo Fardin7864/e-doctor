@@ -2,3 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Common style */
+
+.title-text{
+    color: #3A4256; 
+}
