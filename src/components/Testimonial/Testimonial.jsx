@@ -29,7 +29,7 @@ const Testimonial = () => {
             <div className=' flex flex-col gap-5 py-5 px-6 items-center rounded-xl shadow-xl'>
                 <p className=' text-black text-base mt-4'>It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content</p>
                 <div className=" w-full flex justify-start gap-8 items-center">
-                    <img src={person} alt="" className=" w-16 h-16 rounded-full border-4 border-[#19D3AE]"/>
+                    <img src={person1} alt="" className=" w-16 h-16 rounded-full border-4 border-[#19D3AE]"/>
                     <div className="">
                     <h5 className=" title-text text-xl font-semibold">Winson Herry</h5>
                     <p className=" text-black text-base">California</p>
@@ -39,7 +39,7 @@ const Testimonial = () => {
             <div className=' flex flex-col gap-5 py-5 px-6 items-center rounded-xl shadow-xl'>
                 <p className=' text-black text-base mt-4'>It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content</p>
                 <div className=" w-full flex justify-start gap-8 items-center">
-                    <img src={person} alt="" className=" w-16 h-16 rounded-full border-4 border-[#19D3AE]"/>
+                    <img src={person2} alt="" className=" w-16 h-16 rounded-full border-4 border-[#19D3AE]"/>
                     <div className="">
                     <h5 className=" title-text text-xl font-semibold">Winson Herry</h5>
                     <p className=" text-black text-base">California</p>

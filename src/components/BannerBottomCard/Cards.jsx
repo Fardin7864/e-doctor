@@ -32,8 +32,7 @@ const Cards = () => {
                 <h3 className=' text-white text-xl font-bold'>Contuct Us</h3>
                 <p className=' text-white text-base mt-4'>+000 123 456789</p>
                 </div>
-            </div>
-            
+            </div>            
         </div>
     );
 };
