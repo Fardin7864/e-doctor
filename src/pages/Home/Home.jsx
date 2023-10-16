@@ -2,6 +2,7 @@ import Cards from "../../components/BannerBottomCard/Cards";
 import BottomBanner from "../../components/BottomBanner/BottomBanner";
 import Banner from "../../components/Homebanner/Banner";
 import OutServices from "../../components/OurServices/OutServices";
+import Testimonial from "../../components/Testimonial/Testimonial";
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             </div>
             <OutServices></OutServices>
             <BottomBanner></BottomBanner>
+            <Testimonial></Testimonial>
         </div>
     );
 };
