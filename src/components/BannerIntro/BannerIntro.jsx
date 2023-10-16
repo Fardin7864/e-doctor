@@ -4,7 +4,7 @@ const BannerIntro = () => {
       <h2 className=" text-5xl font-bold text-[#3A4256]">
         Your New Smile Starts <br className=" hidden md:block"/> Here
       </h2>
-      <p className=" text-p mt-4 mb-7 text-base">
+      <p className="title-text mt-4 mb-7 text-base">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the
