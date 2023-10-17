@@ -38,7 +38,7 @@ const Appointment = () => {
       },[])
     
     const handleCategory= (cat) => { 
-        const displayCategory = subcategorys.filter(category => category.category == cat);
+        const displayCategory = subcategorys?.filter(category => category.category == cat);
         setToDisplay(displayCategory);
      }
     
@@ -52,7 +52,7 @@ const Appointment = () => {
                 </div>
                 <div className=' grid grid-cols-1 lg:grid-cols-3 gap-6 px-8 mt-10'>
                     {
-                        categorys.map(category => 
+                        categorys?.map(category => 
                             <div onClick={() => handleCategory(category.category)} key={category.id} className=' btn rounded-lg shadow-xl py-14 flex justify-center items-center'>
                                 <h3 className=' text-p'>{category.category}</h3>
                             </div>)
@@ -60,7 +60,7 @@ const Appointment = () => {
                 </div>
                 <div className=' grid grid-cols-1 lg:grid-cols-3 gap-6 px-8 mt-10'>
                     {
-                        toDisplay.map(category =>
+                        toDisplay?.map(category =>
                             <div key={category.id} className='rounded-lg shadow-xl py-14 flex flex-col justify-center items-center'>
                                 <h3 className=' text-p'>{category.subcategory}</h3>
                                 <p className=' py-4'>{category.time}</p>

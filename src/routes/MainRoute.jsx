@@ -3,6 +3,7 @@ import Root from "../Root";
 import Error from "../components/Error/Error";
 import Home from "../pages/Home/Home";
 import Appointment from "../pages/Appointment/Appointment";
+import AddCategory from "../Admin/add category/AddCategory";
 
 const MainRoute = createBrowserRouter([
     {
@@ -18,6 +19,10 @@ const MainRoute = createBrowserRouter([
                 path: '/appointment',
                 element: <Appointment></Appointment>,
                 loader: () => fetch('/subcategory.json')
+            },
+            {
+                path: '/admin/addcategory',
+                element: <AddCategory></AddCategory>
             }
         ]
     }
